@@ -1,4 +1,4 @@
-﻿sku_id,Category,productname,mrp,discountPercent,availableQuantity,discountedSellingPrice,weightInGms,outOfStock,quantity
+﻿sku_id,Category,product_name,mrp,discountPercent,availableQuantity,discountedSellingPrice,weightInGms,outOfStock,quantity
 1,Fruits & Vegetables,Onion,2500,16,3,2100,1000,0,1
 2,Fruits & Vegetables,Tomato Hybrid,4200,16,3,3500,1000,0,1
 3,Fruits & Vegetables,Tender Coconut,5100,15,3,4300,58,0,1
