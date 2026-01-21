@@ -276,7 +276,7 @@ Zepto SQL Data Analysis Project
 │
 ├── 📊 zepto_retail_inventory_&_pricing_analysis_dataset.csv            # Project dataset
 ├── 📄 zepto_retail_inventory_&_pricing_analysis_sql_questions.pdf      # Project problems
-├── 🖼 zepto_retail_inventory_&_pricing_analysis_sql_query.pdf           # SQL queries for project solutions
+├── 🖼 zepto_retail_inventory_&_pricing_analysis_sql_query.pdf           # SQL queries for project solution
 ├── 📘 zepto_retail_inventory_&_pricing_analysis_report.pdf             # Detailed project report
 ├── 📘 readme.md                                                        # Project documentation
 ```
