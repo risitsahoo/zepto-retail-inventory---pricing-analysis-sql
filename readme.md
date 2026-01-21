@@ -1,4 +1,4 @@
-# 📊 Zepto Retail Inventory & Pricing Analysis Project 
+# 📊 Zepto Retail Inventory & Pricing Analysis
 ### Retail Inventory & Pricing Analysis Using SQL
 
 ---
